@@ -2,6 +2,7 @@ import React from 'react';
 import { Col, Container, Row } from 'react-bootstrap';
 import { Outlet } from 'react-router-dom';
 import Footer from '../Share/Footer/Footer';
+// import Header from '../Share/Header/Header';
 import Header from '../Share/Header/Header';
 import LeftSideNav from '../Share/LeftSideNav/LeftSideNav';
 
