@@ -10,6 +10,7 @@ import Details from "../../Share/Details/Details";
 import Error from "../../Share/Error/Error";
 import PrivateRoutes from "../PrivateRoutes/PrivateRoutes";
 import Premium from "../../Share/Premium/Premium";
+// import Premium from "../../Share/Premium/Premium";
 
 
 
